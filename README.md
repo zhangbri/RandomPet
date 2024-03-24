@@ -20,7 +20,7 @@ The following REQUIRED features are completed:
 
 ## API Choice
 
-My chosen API for this project is **https://dog.ceo/api/breeds/image/random** and **https://api.thecatapi.com/v1/images/search**.
+My chosen API for this project is **https://dog.ceo/api/breeds/image/random** / **https://api.thecatapi.com/v1/images/search**.
 
 ## Video Demo
 
